@@ -1,0 +1,41 @@
+1. What do you understand by software testing?
+2. When should you stop the testing process?
+3. What do verification and validation mean in software testing?
+4. What is static testing? When does it start and what does it cover?
+5. Define black-box testing.
+6. What is a test plan and what does it include?
+7. What is Traceability Matrix?
+8. What is meant by test coverage?
+9. Is it possible to achieve 100% testing coverage? How would you ensure it?
+10. What are unit testing and integration testing?
+11. Can we do system testing at any stage?
+12. Mention the different types of software testing.
+13. What is the difference between a test driver and a test stub?
+14. What is agile testing and why is it important?
+15. What do you know about data flow testing?
+16. What is the purpose of the end-to-end testing?
+17. Can you explain the importance of test cases in the manual testing process?
+18. What is regression testing, and why is it important?
+19. How do you prioritize test cases when you have limited time for testing? ( Everytime asked in Interview)
+20. The probability that a server-class application hosted on the cloud is up and running for six long months without crashing is 99.99 percent. To analyze this type of scenario, what test will you perform?
+21. What will you do when a bug turns up during testing?
+22. How do you test a product if the requirements are yet to be freezed?
+23. If a product is in the production stage and one of its modules gets updated, then is it necessary to perform regression testing?
+24. How will you overcome the challenges faced due to the unavailability of proper documentation for testing? ( Every company faced )
+25. What do you understand about STLC? (Mostly asked)
+26. In software testing, what does a fault mean?
+27. How do severity and priority relate to each other?
+28. Can you describe the defect life cycle and the different stages involved in defect management? ( Asked mostly)
+29. What techniques do you use to test database views and stored procedures using SQL queries? How do you ensure their correctness and efficiency?
+30. Describe the process you follow for creating and executing test cases in a manual testing environment.
+31. What do you mean by defect detection percentage in software testing?
+32. What is the average age of a defect in software testing?
+33. On the basis of which factors would you consider choosing automated testing over manual testing?
+34. Is there any difference between bug leakage and bug release?
+
+
+
+
+https://mylearn.oracle.com/ou/learning-path/java-explorer/79726
+
+end Java assignment to mail id : growskillit@gmail.com  - Java assignment Oct batch | your name
